@@ -1,4 +1,4 @@
-codeunit 50210 "BSCL BSB Book Type eBook Impl."
+codeunit 50210 "BSCL BSB Book Type eBook Impl." implements "BSB Book Type Process"
 {
     procedure StartDeployBook()
     begin
